@@ -1,0 +1,7 @@
+### Python temlate
+#Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+docer-compose.yaml
+log/
+resources/products.json
